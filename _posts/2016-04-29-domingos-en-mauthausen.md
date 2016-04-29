@@ -1,12 +1,12 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: Domingos en Mauthausen
-datePublished: '2016-04-29T08:07:04.114Z'
-dateModified: '2016-04-29T08:00:51.564Z'
+datePublished: '2016-04-29T08:10:10.820Z'
+dateModified: '2016-04-29T08:10:06.798Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-29-domingos-en-mauthausen.md
