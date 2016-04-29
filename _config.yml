@@ -1,0 +1,28 @@
+name: MarcosArizmendi
+favicon: null
+layout_spectrum: 0.5059746538754553
+typography_spectrum: 0.6141361526679248
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.006634905468672514
+  lightness: 0.5692982859909534
+  saturation: 0.30342674092389643
+  rhythmicContrast: 0.8376270546577871
+purpose: []
