@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Domingos en Mauthausen
-datePublished: '2016-04-29T07:57:43.419Z'
-dateModified: '2016-04-29T07:57:11.477Z'
+datePublished: '2016-04-29T08:00:43.418Z'
+dateModified: '2016-04-29T07:57:53.042Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-29-domingos-en-mauthausen.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,8 +18,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-04-29-domingos-en-mauthausen.md
-published: true
 url: domingos-en-mauthausen/index.html
 _type: Article
 
