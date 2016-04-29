@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[MarcosArizmendi]]></title>
         <description><![CDATA[MarcosArizmendi]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/marcosarizmendi/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Apr 2016 07:57:43 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 29 Apr 2016 08:00:47 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/marcosarizmendi/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/dc88ffd2-d628-4a5a-99e7-7b032fed81be.jpg">]]></description>
-            <link>undefineddomingos-en-mauthausen/index.html</link>
+            <link>https://thegrid.ai/marcosarizmendi/domingos-en-mauthausen/index.html</link>
             <guid isPermaLink="false">588a76d1-4016-4db1-b018-71c837d7829f</guid>
-            <pubDate>Fri, 29 Apr 2016 07:57:43 GMT</pubDate>
+            <pubDate>Fri, 29 Apr 2016 08:00:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
