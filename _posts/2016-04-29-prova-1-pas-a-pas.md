@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-11T14:05:50.564Z'
-dateModified: '2016-05-11T14:05:13.519Z'
+datePublished: '2016-05-11T14:14:44.103Z'
+dateModified: '2016-05-11T14:05:53.375Z'
 title: 'Nowthis, el éxito sin plataforma propia'
 author: []
 sourcePath: _posts/2016-04-29-prova-1-pas-a-pas.md
@@ -37,21 +37,9 @@ Facebook es sólo la punta de lanza de NowThis, aunque muy afilada (Más de 7,5 
 
 ****
 
-**Hay mucho terreno por explorar, pero reina el optimismo. Sin ir más lejos, el presidente de Nowthis, ******Athan Stephanopoulos****
-
-fue muy gráfico y aseguró que estamos en "un renacimiento para los creadores de contenidos"
-
-en declaraciones a Buzzfeed
-
-. Su equipo sigue nutriendo de vídeos las diferentes redes sociales, pero no dan la espalda a la tecnología móvil.
-
-Tap For News
-
-fue el gran lanzamiento del año pasado en iOS y Android. Una aplicación sencilla que nos ofrece vídeos diarios (Muchos son los mismos que ya podemos ver en Facebook). Un sistema que no ha acabado de despuntar y que parece caer poco a poco en el olvido. Una muestra clara de las intenciones de NowThis. Si no funciona, no les da miedo cambiar la estrategia. No se casan con nadie, ni con su propia web.
+**Hay mucho terreno por explorar, pero reina el optimismo. Sin ir más lejos, el presidente de Nowthis, ******Athan Stephanopoulos ****fue muy gráfico y aseguró que estamos en "un renacimiento para los creadores de contenidos" en declaraciones a Buzzfeed. Su equipo sigue nutriendo de vídeos las diferentes redes sociales, pero no dan la espalda a la tecnología móvil. Tap For Newsfue el gran lanzamiento del año pasado en iOS y Android. Una aplicación sencilla que nos ofrece vídeos diarios (Muchos son los mismos que ya podemos ver en Facebook). Un sistema que no ha acabado de despuntar y que parece caer poco a poco en el olvido. Una muestra clara de las intenciones de NowThis. Si no funciona, no les da miedo cambiar la estrategia. No se casan con nadie, ni con su propia web.
 
 **[][0][][1]**
-
-- See more at: http://nexttv.lavinia.tc/nowthis-la-formula-del-exito-sin-plataforma-propia/\#sthash.xKNFM2pv.dpuf
 
 [0]: https://www.buzzfeed.com/alexkantrowitz/as-social-shifts-to-video-content-creators-win-power-and-dol?utm_term=.lswbmd2wDV#.brXp9wN8MZ
 [1]: https://itunes.apple.com/es/app/tap-for-news/id964297885?mt=8
