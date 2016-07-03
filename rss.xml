@@ -4,7 +4,7 @@
         <description><![CDATA[Marcos Arizmendi]]></description>
         <link>https://thegrid.ai/marcosarizmendi/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 11 May 2016 14:14:51 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Jul 2016 10:37:38 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/marcosarizmendi/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Nowthis, el éxito sin plataforma propia]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/marcosarizmendi/prova-1-pas-a-pas/index.html</link>
             <guid isPermaLink="false">d353370a-67b4-4596-8bbd-6284381810c7</guid>
             <pubDate>Wed, 11 May 2016 14:14:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>http://nexttv.lavinia.tc/inteligencia-artificial-en-panales/</p>]]></description>
+            <link>https://thegrid.ai/marcosarizmendi/httpnexttvlaviniatcinteligencia-artificial-en-panales/index.html</link>
+            <guid isPermaLink="false">b367d8bd-4dd7-4548-8bc1-0eb3d6b90729</guid>
+            <pubDate>Sun, 03 Jul 2016 10:37:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
