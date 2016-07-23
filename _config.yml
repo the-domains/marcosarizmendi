@@ -24,11 +24,7 @@ cta:
   domain: null
   bucket: null
   version: null
-navigation:
-  - id: d353370a-67b4-4596-8bbd-6284381810c7
-    url: 2016-04-29-prova-1-pas-a-pas.html
-    name: NowThis
-    type: content
+navigation: []
 favicon: null
 title: Marcos Arizmendi
 purpose: []
