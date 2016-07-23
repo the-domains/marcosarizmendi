@@ -5,17 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-11T14:14:44.103Z'
-dateModified: '2016-05-11T14:05:53.375Z'
+datePublished: '2016-07-23T09:04:44.369Z'
+dateModified: '2016-07-23T09:04:43.755Z'
 title: 'Nowthis, el éxito sin plataforma propia'
 author: []
 sourcePath: _posts/2016-04-29-prova-1-pas-a-pas.md
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: {}
+via: {}
 starred: true
 url: prova-1-pas-a-pas/index.html
 _type: Article
@@ -37,7 +34,7 @@ Facebook es sólo la punta de lanza de NowThis, aunque muy afilada (Más de 7,5 
 
 ****
 
-**Hay mucho terreno por explorar, pero reina el optimismo. Sin ir más lejos, el presidente de Nowthis, ******Athan Stephanopoulos ****fue muy gráfico y aseguró que estamos en "un renacimiento para los creadores de contenidos" en declaraciones a Buzzfeed. Su equipo sigue nutriendo de vídeos las diferentes redes sociales, pero no dan la espalda a la tecnología móvil. Tap For Newsfue el gran lanzamiento del año pasado en iOS y Android. Una aplicación sencilla que nos ofrece vídeos diarios (Muchos son los mismos que ya podemos ver en Facebook). Un sistema que no ha acabado de despuntar y que parece caer poco a poco en el olvido. Una muestra clara de las intenciones de NowThis. Si no funciona, no les da miedo cambiar la estrategia. No se casan con nadie, ni con su propia web.
+* **Hay mucho terreno por explorar, pero reina el optimismo. Sin ir más lejos, el presidente de Nowthis, ******Athan Stephanopoulos ****fue muy gráfico y aseguró que estamos en "un renacimiento para los creadores de contenidos" en declaraciones a Buzzfeed. Su equipo sigue nutriendo de vídeos las diferentes redes sociales, pero no dan la espalda a la tecnología móvil. Tap For Newsfue el gran lanzamiento del año pasado en iOS y Android. Una aplicación sencilla que nos ofrece vídeos diarios (Muchos son los mismos que ya podemos ver en Facebook). Un sistema que no ha acabado de despuntar y que parece caer poco a poco en el olvido. Una muestra clara de las intenciones de NowThis. Si no funciona, no les da miedo cambiar la estrategia. No se casan con nadie, ni con su propia web.
 
 **[][0][][1]**
 
