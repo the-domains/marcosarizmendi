@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-07-23T09:04:44.369Z'
-dateModified: '2016-07-23T09:04:43.755Z'
+datePublished: '2016-07-23T09:07:05.501Z'
+dateModified: '2016-07-23T09:07:04.914Z'
 title: 'Nowthis, el éxito sin plataforma propia'
 author: []
 sourcePath: _posts/2016-04-29-prova-1-pas-a-pas.md
